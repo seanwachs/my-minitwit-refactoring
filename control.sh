@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #!/usr/bin/env bash
 
 if [ $1 = "init" ]; then
